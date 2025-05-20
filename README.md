@@ -1,7 +1,7 @@
 # Forecasting- Univariate-Time-Series-with-SARIMA-and-Exponential-Smoothing
 Case 1: Forecasting Univariate Time Series with SARIMA and Exponential Smoothing - Citibike New York
 
-This project is a part of the course EBC4008 Time Series Econometrics. Collaborators (Team 8): Bao Ngoc Phung Dang, Benedetta Schianchi, Malika Jakobs-Neumeier, Lorenz Kowalczik, Viola Sada. 
+This project is a part of the course EBC4008 Time Series Econometrics. Collaborators: Bao Ngoc Phung Dang, Benedetta Schianchi, Malika Jakobs-Neumeier, Lorenz Kowalczik, Viola Sada. 
 
 In this case, we explore two of the most popular traditional time series methods, (S)ARIMA and ETS, for forecasting purposes on data for bicycle trips from Citi Bike in New York City. We use data from January to April 2023 as training sample to estimate several time series models. These models will then be used to evaluate their out-of-sample forecast performance on data from May 2023 (which is the test sample) using a rolling or expanding window approach.
 
